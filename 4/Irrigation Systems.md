@@ -1,0 +1,1 @@
+Pumps (wind-powered, solar, or fuel pumps), aqueducts, drip irrigation setups for water efficiency. Blueprint: a foot-operated treadle pump for irrigation, and an outline of large-scale canal irrigation design.

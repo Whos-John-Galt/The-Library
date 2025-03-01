@@ -1,0 +1,1 @@
+Melting down scrap metal for reuse (steel, aluminum recycling processes on a small scale), recycling plastics (melting or extruding into new shapes), recycling glass (melting into new containers).

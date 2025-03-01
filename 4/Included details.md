@@ -1,0 +1,1 @@
+Maintenance of machinery (lubrication, replacing parts), makeshift repairs, and how to improvise with spare parts if proper machinery isn’t available (e.g. converting a truck into a makeshift tractor).

@@ -1,0 +1,1 @@
+5 Cultural Development and Society: The softer aspects of civilization – arts, culture, societal norms, and how to rebuild a rich human life beyond mere survival. (Though not explicitly in prompt, "modern life" includes culture, and historically arts and culture motivate societal progress too. We can include briefly.) Covers:

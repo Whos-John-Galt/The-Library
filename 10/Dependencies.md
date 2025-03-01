@@ -1,0 +1,1 @@
+Math (probability, statistics), Computing hardware/software. Feeds into efficiency of all systems (finding patterns to optimize processes in agriculture, industry, etc.), and creation of knowledge bases like possibly an offline Wikipedia for survivors. Cross-ref to Governance for data-driven policy and Education for how to use data tools.

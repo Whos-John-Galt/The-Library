@@ -1,0 +1,1 @@
+Possibly consolidating language for ease of knowledge transfer, or being multilingual. Encouraging literature, newspapers (printing press usage for news, linking to communication tech).

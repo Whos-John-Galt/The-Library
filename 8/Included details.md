@@ -1,0 +1,1 @@
+Example of a town master plan, formulas for road capacity vs population, how to calculate needed number of wells/hospitals/etc. per population count. Also success and failure examples (planned cities like Washington D.C. vs unplanned slums highlighting importance of planning).

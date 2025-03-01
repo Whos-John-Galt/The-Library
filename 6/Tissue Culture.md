@@ -1,0 +1,1 @@
+Micropropagation of plants in vitro to rapidly multiply disease-free planting stock (important for bananas, potatoes, etc.). How to create a sterile culture environment, necessary media (with sugar, hormones), and lab setup for plant tissue culture.

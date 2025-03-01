@@ -1,0 +1,1 @@
+Urban vs rural considerations, how to prioritize vaccinations or health checks, designing a basic hospital layout (with operating room, wards, etc.). Also includes case studies like how London solved cholera with sewer systems, etc.

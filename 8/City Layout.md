@@ -1,0 +1,1 @@
+Planning efficient city layouts for transportation, zoning (residential vs industrial vs agricultural land use), ensuring green spaces, etc. Using grid patterns vs radial, how to scale infrastructure as population grows.

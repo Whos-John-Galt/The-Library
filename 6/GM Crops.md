@@ -1,0 +1,1 @@
+Developing crops that are pest-resistant (Bt toxin producing plants), herbicide-tolerant, or nutrient-fortified (e.g. Golden Rice with vitamin A). Discusses how to achieve those (linking to genetic engineering) and how to manage them in fields (preventing cross-contamination, etc.).

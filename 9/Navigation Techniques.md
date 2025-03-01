@@ -1,0 +1,1 @@
+Beyond vehicles themselves – how to navigate (maps, compass, sextant, later GPS if satellites). Map-making (cartography techniques, using triangulation surveys to create maps). Timekeeping (accurate clocks for longitude calculation historically).

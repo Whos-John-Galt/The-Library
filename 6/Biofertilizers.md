@@ -1,0 +1,1 @@
+Using bacteria (like rhizobia for legumes, azotobacter, etc.) to enhance soil nitrogen instead of chemical fertilizer. How to inoculate seeds with nitrogen-fixing bacteria, or produce compost teas rich in microbes.

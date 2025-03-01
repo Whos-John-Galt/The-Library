@@ -1,0 +1,2 @@
+5 Energy Storage: Methods to store energy, which is crucial for balancing supply and demand and enabling intermittent renewables. Covers:
+(The Energy section interlinks extensively with Environment & Sustainability for considerations like emissions and renewable adoption, ensuring that while rebuilding, future civilization avoids environmental collapse.)

@@ -1,0 +1,1 @@
+Guidelines for mail sorting, example of a mail route in a town, the concept of zip/postal codes and how to design a simple coding for regions to help sorting. Also mention the historical Pony Express or pigeon post as anecdotes of creative communication solutions.

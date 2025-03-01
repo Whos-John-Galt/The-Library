@@ -1,0 +1,1 @@
+Plant physiology, growth requirements, crop biology. Supports Agriculture – knowing how plants uptake nutrients, how photosynthesis works (formula $6CO_2 + 6H_2O \rightarrow C_6H_{12}O_6 + 6O_2$), breeding techniques. Includes seed saving methods, identification of edible vs poisonous plants.

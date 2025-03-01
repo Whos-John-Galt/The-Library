@@ -1,0 +1,1 @@
+Methods to ensure potable water for communities (wells, filtration, chlorination, boiling, constructing sand filters, rainwater harvesting). This is often life-saving basic tech. Blueprint: a slow sand filter, a layout for a village water pipe system, and a solar still for desalinating water if needed.

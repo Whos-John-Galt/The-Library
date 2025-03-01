@@ -1,0 +1,1 @@
+Structure and function of cells, microorganisms (bacteria, viruses, fungi). Key for developing medicines (antibiotics production, fermentation), understanding diseases and food spoilage. Details: cell diagrams, metabolic pathways (e.g. glucose fermentation, antibiotic mechanisms), procedures for culturing microbes (sterile techniques, growth media recipes).

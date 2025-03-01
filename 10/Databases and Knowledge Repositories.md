@@ -1,0 +1,1 @@
+(Relevant to implementing this very repository) – how to store knowledge for easy retrieval. Concepts of relational databases (tables, relations, SQL), as well as document stores or file systems. Perhaps an example of a simple library catalog system or an electronic encyclopedia.

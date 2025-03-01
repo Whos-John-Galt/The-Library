@@ -1,0 +1,1 @@
+Basics of animal biology for livestock management (reproduction, nutrition, common diseases) and human biology basics for medicine. Overlaps with anatomy in Medicine section.

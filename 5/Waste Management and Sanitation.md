@@ -1,0 +1,1 @@
+Building sewage systems or latrines to prevent contamination of water. Covers simple pit latrines, septic systems, up to sewage treatment plants (with diagrams of primary, secondary, tertiary treatment processes). Also waste disposal, garbage collection, and recycling to prevent vermin and disease.

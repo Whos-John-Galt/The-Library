@@ -1,0 +1,1 @@
+Seed drills, planters; Reapers, threshers, combines for harvesting grain (with mechanical diagrams and operational principles for each).

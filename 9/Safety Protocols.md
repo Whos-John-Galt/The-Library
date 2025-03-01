@@ -1,0 +1,1 @@
+For each mode, the universal safety rules (right-of-way rules for ships, road traffic laws, aviation flight rules). Also emergency procedures (distress signals: SOS, Mayday calls, etc. – tying to Telecom for radio usage).

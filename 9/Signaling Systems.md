@@ -1,0 +1,1 @@
+Railway signals (to prevent collisions), maritime signals (lights, buoys, Morse code via light or flags), aviation signals (airfield lighting, radio comms and transponders).

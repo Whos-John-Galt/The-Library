@@ -1,0 +1,1 @@
+Example of compressing text using Huffman coding (with sample code), a simple database schema for tracking industrial inventory and an example query (as mentioned before), and a demonstration of a very simple machine learning example (like fitting a line to data points for predicting a value, or training a perceptron to recognize a pattern).

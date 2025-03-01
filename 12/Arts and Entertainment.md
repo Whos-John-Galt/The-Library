@@ -1,0 +1,1 @@
+The role of visual arts, music, theater, etc., in society’s morale and identity. Suggest preserving or reviving art forms (even simple like drawing, storytelling, eventually film when tech permits). Not crucial for survival but for quality of life and cultural continuity.

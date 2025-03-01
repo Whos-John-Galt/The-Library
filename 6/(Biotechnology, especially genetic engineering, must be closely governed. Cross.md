@@ -1,0 +1,1 @@
+links to Legal/Ethical sections ensure that the repository addresses regulations and moral considerations, like not recreating harmful pathogens or unethical human experimentation.)

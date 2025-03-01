@@ -1,0 +1,1 @@
+Transportation network, Governance (often postal services are public or regulated). Feeds social connectivity and commerce (ability to send goods or correspondence). Cross-ref to Telecom for when to use electronic communication vs mail.

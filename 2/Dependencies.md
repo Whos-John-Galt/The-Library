@@ -1,0 +1,1 @@
+Draws on multiple fundamental fields (wood grows from Biology/Agriculture, textiles from Agriculture/Chemistry for dyes). Feeds into Construction (wood framing), Medicine (cotton for bandages), Transportation (wood gasifiers as an emergency fuel, composites in aerospace), etc.

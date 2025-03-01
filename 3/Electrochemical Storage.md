@@ -1,0 +1,1 @@
+Batteries (lead-acid, nickel-iron (Edison cells), lithium-ion, etc.). For each type: chemical reactions, materials, pros/cons (energy density vs durability). Blueprint: a simple lead-acid battery build (lead plates, sulfuric acid) and a basic lithium cell structure (more advanced). Also covers emerging tech like flow batteries.

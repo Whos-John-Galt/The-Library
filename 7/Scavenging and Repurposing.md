@@ -1,0 +1,1 @@
+How to salvage useful parts from ruined buildings, vehicles, and devices. For example, recovering electric motors from appliances, gears and bearings from machines, usable metal from debris. Techniques for safe disassembly and inventory of salvaged parts.

@@ -1,0 +1,1 @@
+Although pre-industrial, wood remains essential for construction (houses, fuel in early stages, making charcoal for metalworking) and as a feedstock for paper. Includes woodworking techniques, preservation (varnish, treatments), and papermaking from pulp.

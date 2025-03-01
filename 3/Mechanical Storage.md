@@ -1,0 +1,1 @@
+Flywheels (storing kinetic energy), compressed air tanks, pumped hydro (already mentioned), gravity batteries (lifting weights). Blueprint: design for a flywheel system (materials, bearings, safety containment).

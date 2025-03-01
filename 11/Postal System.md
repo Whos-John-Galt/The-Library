@@ -1,0 +1,1 @@
+Setting up a mail service – addressing system (street names or coordinate addresses for rural, etc.), schedules, methods (by foot, horse, vehicle). How postal routing works (local post offices forwarding mail through regional hubs).

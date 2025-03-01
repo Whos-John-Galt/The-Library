@@ -1,0 +1,1 @@
+Understanding soil stability (to avoid landslides for roads, etc.), identifying areas safe to build dams, etc.

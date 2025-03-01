@@ -1,0 +1,1 @@
+Knowledge from various engineering disciplines combined with Governance (policy and planning), Logistics (predicting needs). Ensures the efficient function of Transportation networks and Utilities. Cross-ref to Governance & Law section about urban regulations and civic planning processes.

@@ -1,0 +1,2 @@
+7 Repair, Recycling and Scavenging: (Important in a rebuild scenario to make use of what remains of old world and to sustain until new manufacturing meets needs.) Covers:
+(This Industry section is deeply interwoven with Transportation (for moving materials and products), Logistics (supply chains to feed factories and distribute goods), and Governance (setting standards, labor laws, etc.). The repository will reference these links to show how an industrial base supports and is supported by other facets of society.)

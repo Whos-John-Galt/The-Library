@@ -1,0 +1,1 @@
+Encouraging rational thinking, ethical frameworks (maybe referencing philosophies that led to humanism, enlightenment – to avoid slipping into superstition or factionalism).

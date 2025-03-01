@@ -1,0 +1,1 @@
+Concepts of algorithms that learn or make decisions. Starting simple: rule-based systems (expert systems to assist with diagnosis, etc.), then move to machine learning basics (regression, classification, neural networks concept). This is forward-looking; including it prepares for eventually implementing smart systems (like optimizing energy grid, or robotics vision).

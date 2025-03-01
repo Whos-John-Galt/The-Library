@@ -1,0 +1,1 @@
+Not as blueprint-heavy, but might include references to historically how culture helped people endure hardships (like music in wartime), and guidelines for fostering inclusive culture that respects diversity (if various survivor groups come together with different backgrounds).

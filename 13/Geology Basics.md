@@ -1,0 +1,1 @@
+Rock types (igneous, sedimentary, metamorphic), rock cycle, mineral identification (hardness, streak tests), how ores are found (veins, placer deposits – ties to mining in Industry). Plate tectonics concept (earthquakes, volcanic activity patterns).

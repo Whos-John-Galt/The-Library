@@ -1,0 +1,1 @@
+Biological classification of organisms (taxonomy), essential biochemical formulas (e.g. ATP cycle in metabolism), blueprints for simple lab equipment like fermenters or microscopes, and instructions for making basic medical cultures (like penicillin from mold, which historically was a life-saving rediscovery in an emergency ([

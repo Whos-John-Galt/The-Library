@@ -1,0 +1,1 @@
+5 Geology and Natural Hazards: Understanding Earth’s geology for resource location and disaster awareness. Covers:

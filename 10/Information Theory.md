@@ -1,0 +1,1 @@
+How information is quantified (bits, entropy), data compression techniques (Huffman coding, etc.), error-correcting codes (briefly touched in networking but expanded: Hamming code example to correct a single-bit error).

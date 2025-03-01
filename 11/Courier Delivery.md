@@ -1,0 +1,1 @@
+For packages and goods – how companies might operate deliveries, or communal delivery systems. Efficiency in routing (similar to supply chain routing problem, but at local scale – link to vehicle routing problem solutions).

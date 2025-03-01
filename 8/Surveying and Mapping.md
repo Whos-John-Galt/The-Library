@@ -1,0 +1,1 @@
+Techniques for surveying land (transit and leveling equipment, mapping coordinates) and making maps for planning. Possibly coordinate systems and basic mapping (link to fundamental knowledge of geography).

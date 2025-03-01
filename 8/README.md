@@ -1,0 +1,2 @@
+6 Urban Planning and Transportation Networks: (Higher-level knowledge for when communities grow.) Covers:
+(Civil infrastructure links to Environment for sustainable development (e.g., not building in wetlands, planning around natural hazards) and to Governance as large projects often need state coordination and legal frameworks (eminent domain, building codes). The repository will highlight those intersections.)

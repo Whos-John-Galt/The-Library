@@ -1,0 +1,1 @@
+Using geological knowledge to map where to find metals, coal, oil (signs of oil like certain sedimentary layers or seeps, maybe mention old techniques vs modern surveys). Also groundwater mapping (aquifers), which is critical for water supply.

@@ -1,0 +1,1 @@
+Formulas for tissue culture media (Murashige and Skoog medium components), protocol for cloning a plant from a cutting (hormone rooting powder which can be made from willow extract as a natural auxin source). Also included are potential pitfalls like resistance development if using Bt crops, and socio-ethical issues of GMOs (to be navigated by governance).

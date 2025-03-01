@@ -1,0 +1,1 @@
+Biology (plant physiology) and Medicine/Biotech lab techniques. Feeds Agriculture with improved yields and resilience, reducing reliance on chemical inputs from Industry. Cross-ref to Environment (ensuring modified organisms don’t harm ecosystems, using biotech to restore soil health).

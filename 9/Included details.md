@@ -1,0 +1,1 @@
+How to determine latitude and longitude manually, how to read nautical charts, sample radio communication scripts for pilots or captains. Also a brief on international units and conventions (nautical mile, knots, etc.).

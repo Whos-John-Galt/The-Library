@@ -1,0 +1,1 @@
+6 Data and Information Management: (This can include things like information theory, data analysis, perhaps AI basics.) Covers:

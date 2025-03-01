@@ -1,0 +1,1 @@
+Basic tractor blueprint (referencing internal combustion engine knowledge), power take-off (PTO) mechanism to run attachments. Also mention of small-scale engines like two-stroke motors for pumps or generators on farms.

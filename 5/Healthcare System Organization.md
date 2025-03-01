@@ -1,0 +1,1 @@
+How to set up clinics, train medics, establish a medicine supply chain (cross-ref Logistics). Record-keeping of health data (could link to Governance for setting up health bureaus).

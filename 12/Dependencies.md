@@ -1,0 +1,1 @@
+Free time and stability (which come from success in other sectors). Feeds mental health, innovation (a culturally vibrant society tends to be more innovative and cohesive). Cross-ref to Education (arts in education, humanities), and Governance if supporting arts via policy.

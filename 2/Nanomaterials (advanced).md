@@ -1,0 +1,1 @@
+A brief mention of extremely advanced materials like graphene, carbon nanotubes, purely for completeness of knowledge (likely not immediately needed for recovery, but as an aspirational frontier if civilization progresses).

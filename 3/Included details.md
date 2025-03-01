@@ -1,0 +1,1 @@
+Performance formulas (battery capacity in amp-hours, flywheel energy $E=\frac{1}{2}I\omega^2$), life-cycle considerations (charge/discharge cycles), and integration with systems (e.g. how to hook batteries into a solar setup). Also addresses historical use (lead-acid since 19th century) and pitfalls (e.g. older batteries’ lead pollution, hydrogen’s explosiveness).

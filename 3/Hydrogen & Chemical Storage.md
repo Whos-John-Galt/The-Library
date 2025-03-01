@@ -1,0 +1,1 @@
+Using electricity to produce hydrogen (electrolysis of water) and then storing hydrogen as fuel (possibly converting back via fuel cells). Details: Electrolyzer design, fuel cell principles and diagrams (with chemical equations $2H_2 + O_2 \to 2H_2O$ releasing energy). Also mention of hydrogen safety and handling.

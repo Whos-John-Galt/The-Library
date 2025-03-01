@@ -1,0 +1,1 @@
+Earth science knowledge from Fundamentals, and uses Civil Engineering (to design against hazards). Feeds Mining (resource find) and Public safety. Cross-ref to Infrastructure (building codes for quakes, etc.), Energy (geothermal maps for geothermal energy potential, or oil exploration), and Governance (emergency management planning).

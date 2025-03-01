@@ -1,0 +1,1 @@
+Use of artificial insemination, selective breeding programs, and maybe embryo transfer for livestock improvement. Basic techniques to maintain genetic diversity while improving stock.

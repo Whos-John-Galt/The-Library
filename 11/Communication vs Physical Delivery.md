@@ -1,0 +1,1 @@
+Emphasize how as telecom improves, letters can shift to electronic messages, but parcels will still need delivery networks (and these networks were crucial historically for economic integration).

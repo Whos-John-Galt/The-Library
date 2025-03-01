@@ -1,0 +1,1 @@
+Setting standards for earthquake zones (flexible structures), flood zones (avoid or build stilts), fire codes (materials and firebreaks in city design, fire brigade plans) to mitigate disasters.

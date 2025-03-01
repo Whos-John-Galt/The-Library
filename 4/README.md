@@ -1,0 +1,1 @@
+4 Agricultural Machinery: Mechanization of farming to improve efficiency. (Links strongly to the Manufacturing/Machinery section, but listed here to contextualize within agriculture.) Covers:

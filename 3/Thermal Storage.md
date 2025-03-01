@@ -1,0 +1,1 @@
+Storing energy as heat (e.g. molten salt heat storage for solar thermal plants, or even insulated hot water reservoirs for heating). Equations for heat capacity, etc.

@@ -1,0 +1,1 @@
+links will be provided between subtopics to show, for example, how Software algorithms are used in Telecom for compression or encryption, how Electronics enables both computers and radio, and how digital networks rely on physical telecom lines. The repository ensures a unified picture of digital infrastructure rather than isolated silos.)

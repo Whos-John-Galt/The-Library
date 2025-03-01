@@ -1,0 +1,1 @@
+Uses Fundamental astronomy/geography knowledge, Telecom (for radio-based navigation like LORAN or GPS once up). Feeds into safer Transportation and Logistics. Cross-ref to Digital Infrastructure for GPS and to Governance for establishing standards like traffic laws.

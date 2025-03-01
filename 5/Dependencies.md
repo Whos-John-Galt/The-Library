@@ -1,0 +1,1 @@
+Intersects with Civil Infrastructure (for water and sewage construction), Governance (public health policy), and Logistics (supplying medical goods). Outcomes here dramatically affect workforce longevity and societal stability, which in turn affects all other fields.

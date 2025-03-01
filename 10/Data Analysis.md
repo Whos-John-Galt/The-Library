@@ -1,0 +1,1 @@
+Basic statistics and data science concepts – how to glean insights from data sets (mean, median, correlation vs causation). Could be useful for fields like epidemiology or economics in governance.
